@@ -1,0 +1,110 @@
+
+
+.App {
+  /* display: flex; */
+  text-align: center;
+  background-color: rgb(27, 131, 228);
+  /* margin: 20px; */
+  padding: 50px;
+  height: 900px;
+}
+
+.App h1{
+  font-size: 100px;
+  color: rgb(207, 207, 207);
+}
+
+.Sinopse {
+  background-color: rgb(103, 103, 103);
+  text-align: justify;
+  /* margin: 20px; */
+  padding: 30px;
+  /* height: 500px; */
+  /* width: 500px; */
+  border-radius: 10px;
+  font-size: 20px;
+  /* font-style: italic; */
+  text-indent: 1cm;
+  /* color: blue; */
+  display: flex;
+  flex-direction: row;
+  /* flex-direction: column; */
+}
+
+.Sinopse div{
+  margin: 20px;
+}
+
+.imagem {
+  text-align: center;
+}
+
+
+.Sinopse img{
+  /* width: 700px;
+  height: 200px; */
+  block-size: 300px;
+  border-radius: 10px;
+}
+.Historia img{
+  block-size: 400px;
+  border-radius: 10px;
+ 
+}
+
+.Historia {
+  background-color: rgb(216, 216, 216);
+  text-align: justify;
+  /* margin: 20px; */
+  padding: 30px;
+  /* height: 500px; */
+  /* width: 500px; */
+  border-radius: 10x;
+  font-size: 20px;
+  /* font-style: italic; */
+  text-indent: 1cm;
+  /* color: blue; */
+  display: flex;
+  flex-direction: row;
+  /* flex-direction: column; */
+}
+.Historia div{
+  margin: 80px;
+  position: relative;
+   left:400;}
+
+   .App h3{
+    font-size: 60px;
+    color: rgb(10, 12, 10);
+  }
+   .Personagem img{
+  block-size: 400px;
+  border-radius: 10px;
+  margin: 20px;
+  position: relative;
+   left:300;
+ 
+}
+
+.App h4{
+  font-size: 60px;
+  color: rgb(10, 12, 10);
+}
+
+.App h5{
+  font-size: 40px;
+  color: rgb(10, 12, 10);
+}
+.App h6{
+  font-size: 40px;
+  color: rgb(10, 12, 10);
+}
+App h7{
+  font-size: 20px;
+  color: rgb(10, 12, 10);
+}
+
+
+
+
+  
